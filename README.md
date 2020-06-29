@@ -1,10 +1,10 @@
 # Customer Segmentation using RFM Analytics
 Sales and Business Analytics makes use of Customer Segemntation to identify the class into which their customers fall into. This is later used for marketing purposes and even targeted marketing. Customer Segmentation groups the customers into certain groups depending on their Recency, Frequency and Monetary values. Recency shows how recent a customer is, Frequency defines how frequently a customer comes for a purchase and Monetary value shows the customer's total monetary contribution.
 
-We have the follwing groups into to which we will divide the customers.<br />
+We have the follwing groups into to which we will divide the customers.
 <table>
 <tr>
-<th>Segments</th>
+<td>Segments</td>
 </tr>
 
 <tr>
