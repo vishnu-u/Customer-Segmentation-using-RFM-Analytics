@@ -4,7 +4,7 @@ Sales and Business Analytics makes use of Customer Segemntation to identify the 
 We have the follwing groups into to which we will divide the customers.
 <table>
 <tr>
-<td>Segments</td>
+<th>Segments</th>
 </tr>
 
 <tr>
