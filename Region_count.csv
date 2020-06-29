@@ -1,0 +1,11 @@
+,Segments,Australia,Austria,Bahrain,Belgium,Brazil,Canada,Channel Islands,Cyprus,Czech Republic,Denmark,EIRE,European Community,Finland,France,Germany,Greece,Iceland,Israel,Italy,Japan,Lebanon,Lithuania,Malta,Netherlands,Norway,Poland,Portugal,RSA,Saudi Arabia,Singapore,Spain,Sweden,Switzerland,USA,United Arab Emirates,United Kingdom,Unspecified
+0,Champions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,443,0
+1,Loyal Customers,0,0,0,0,0,1,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,953,1
+2,Potential Loyalist,0,2,0,3,0,0,0,1,1,4,0,0,6,23,23,1,0,1,4,2,0,0,0,3,1,0,4,1,0,0,10,3,3,2,0,509,0
+3,Recent Customers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Promising,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Customers needing Attention,8,5,0,16,1,3,1,4,0,3,1,0,5,44,54,1,1,2,7,2,1,0,0,3,7,3,10,0,0,1,12,1,14,1,1,1265,2
+6,About to Sleep,0,0,0,0,0,0,1,0,0,0,0,0,0,7,7,0,0,0,0,2,0,0,0,0,1,3,1,0,0,0,3,2,0,0,0,109,1
+7,At Risk,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,498,0
+8,Can't Loose them,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Hibernating,1,4,2,5,0,0,0,2,0,0,0,0,1,13,10,0,0,0,3,2,0,0,0,3,1,0,4,0,1,0,2,1,2,1,0,141,0
