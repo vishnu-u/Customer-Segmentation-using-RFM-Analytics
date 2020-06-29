@@ -54,7 +54,7 @@ We have the follwing groups into to which we will divide the customers.
 </table>
 
 # Running the project
-Save the dataset (data.csv) and main.ipynb into a single directory. Open up a Jupyter Notebook (Preferred) or Visual Studio Code and run the code. The output consits of three files - <br />
+Save the dataset (Extract data.rar) and main.ipynb into a single directory. Open up a Jupyter Notebook (Preferred) or Visual Studio Code and run the code. The output consits of three files - <br />
 <ul>
 <li>RFM.csv - Consists of Customer details (ID, Country) and their RFM Scores, Values and Segment.</li>
 <li>Region_count.csv - Count of Segments per each region.</li>
